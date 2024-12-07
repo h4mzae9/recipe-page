@@ -1,0 +1,44 @@
+
+
+#image1 {
+    border-radius: 10px;
+    width: 100%;
+    max-width: fit-content;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.ul {
+    padding: 5px;
+    background-color: rgb(232, 215, 215);
+    border-radius: 5px;
+}
+.ul2 {
+    border-bottom: 1px solid black;
+}
+
+h2 {
+    color: rgb(73, 31, 31);
+}
+
+
+td{
+    
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td:last-child { padding-right: 100px; 
+    
+    /* Remove margin from the last element */
+ }
+
+
+.table {
+    border-collapse: collapse;
+}
